@@ -1,2 +1,2 @@
 # Gestion-des-Echelons
-Desktop App FOR Echelons managements
+Desktop App FOR Echelons management
